@@ -17,8 +17,6 @@ publish_to: none
 environment:
   sdk: '>=3.6.0 <4.0.0'
 
-resolution: workspace
-
 dependencies:
   flutter:
     sdk: flutter
@@ -32,7 +30,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
