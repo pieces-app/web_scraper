@@ -6,6 +6,8 @@ homepage: https://github.com/tusharojha/web_scraper
 environment:
   sdk: '>=3.9.0 <4.0.0'
 
+resolution: workspace
+
 dependencies:
   html: ^0.15.4
   http: ^1.1.2
